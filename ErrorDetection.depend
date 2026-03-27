@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1770447169 source:b:\sem - 5 projects\cn individual project\errordetection\main.c
+	<stdio.h>
+	<string.h>
+
